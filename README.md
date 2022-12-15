@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bstirlingg
 - 👀 I’m interested in creating games and life changing software
-- 🌱 I’m currently studying Mathematics, Physics and Chemistry
+- 🌱 Natural Sciences graduate
 
 
 <!---
