@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bstirlingg
 - 👀 I’m interested in creating games and life changing software
 - 🌱 Natural Sciences graduate
-
+- 🧑‍🎓 Degree Apprentice 
+  Please take a look at my starred projects.
 
 <!---
 bstirlingg/bstirlingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
