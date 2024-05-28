@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bstirlingg
 - 👀 I’m interested in creating games, crpyto and life changing software
-- 🌱 Natural Sciences graduate
 - 🧑‍🎓 Degree Apprentice
 -  Please take a look at my starred and pinned projects.
 
