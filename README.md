@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating games, crpyto and life changing software
 - 🌱 Natural Sciences graduate
 - 🧑‍🎓 Degree Apprentice
--  Please take a look at my starred projects.
+-  Please take a look at my starred and pinned projects.
 
 <!---
 bstirlingg/bstirlingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
