@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bstirlingg
-- 👀 I’m interested in creating games, crpyto and life changing software
+- 👀 I’m interested in the financial markets, particulary commodities
 - 🧑‍🎓 Degree Apprentice
 -  Please take a look at my starred and pinned projects.
 
